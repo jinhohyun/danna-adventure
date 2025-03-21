@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"expanded":true,"name":"임무받음","order":1,"parentId":0,"scrollX":1366.8,"scrollY":846},
+{"id":2,"expanded":true,"name":"어촌","order":2,"parentId":1,"scrollX":1357.2,"scrollY":846},
+{"id":3,"expanded":false,"name":"다나의 집","order":3,"parentId":2,"scrollX":1357.2,"scrollY":1074},
+{"id":4,"expanded":false,"name":"은행","order":4,"parentId":2,"scrollX":1366.8,"scrollY":846},
+{"id":5,"expanded":false,"name":"식당","order":6,"parentId":2,"scrollX":1366.8,"scrollY":846},
+{"id":6,"expanded":false,"name":"무기 상점","order":5,"parentId":2,"scrollX":1366.8,"scrollY":846},
+{"id":7,"expanded":false,"name":"숲","order":9,"parentId":1,"scrollX":1366.8,"scrollY":846},
+{"id":8,"expanded":true,"name":"세나성 입구","order":10,"parentId":1,"scrollX":1357.2,"scrollY":1251.6},
+{"id":9,"expanded":false,"name":"세나성 1층","order":11,"parentId":8,"scrollX":1357.2,"scrollY":846},
+{"id":10,"expanded":false,"name":"세나성 2층","order":12,"parentId":8,"scrollX":1357.2,"scrollY":846},
+{"id":11,"expanded":false,"name":"세나성 3층","order":13,"parentId":8,"scrollX":973.1999999999999,"scrollY":840.5999999999999},
+{"id":12,"expanded":false,"name":"이동의 전당","order":14,"parentId":8,"scrollX":1366.8,"scrollY":846},
+{"id":13,"expanded":false,"name":"왕자님 구출","order":15,"parentId":1,"scrollX":1366.8,"scrollY":846},
+{"id":14,"expanded":false,"name":"엔딩","order":16,"parentId":1,"scrollX":1366.8,"scrollY":846},
+{"id":15,"expanded":false,"name":"여관","order":7,"parentId":2,"scrollX":1366.8,"scrollY":846},
+{"id":16,"expanded":false,"name":"물약 상점","order":8,"parentId":2,"scrollX":1366.8,"scrollY":846}
+]
